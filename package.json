@@ -46,6 +46,6 @@
     "harp", "grunt", "gruntplugin", "plugin"
   ],
   "dependencies": {
-    "harp": "~0.20.1"
+    "harp": "https://github.com/sintaxi/harp.git#v0.21.0-pre"
   }
 }
